@@ -1,3 +1,13 @@
+# A simple To-Do list App made using React-Redux
+
+A simple to-do-list app made using react and react-redux package. It uses redux to store the data. User can add items to to-do-list, can delete item from to-do-list, and when the task is done, user can mark it as done and can see the total count of Incompleted to-do's.
+
+#### Learning Objective:
+
+1. React
+2. Redux
+3. React-Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
